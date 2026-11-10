@@ -7,7 +7,6 @@
 #include <windows.h> // Khusus Windows untuk Sleep() dan penanganan kursor
 #include <cctype>
 #include <chrono>
-#include <random>
 #include <algorithm>
 
 using namespace std;
