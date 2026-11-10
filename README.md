@@ -3,6 +3,20 @@
 Game Tetris berbasis teks (console) yang ditulis dengan C++. Dilengkapi sistem slot simpanan, leaderboard, pencarian pemain, dan hapus save.
 
 > **Catatan:** Hanya berjalan di **Windows**, karena memakai `conio.h` dan `windows.h`.
+# Kelompok 3
+- Moh. Arya F5512620078
+- Moh. Fariel Rakha Firdaus F5512620059
+- Amalia Sam F5512620057
+- Thariq ziyad Usamah F5512620085
+- Jourinco Rantererung F5512620070
+- Andi Arya Dwi Putra F5512620048
+
+## Pembagian Tugas
+- Moh Arya bertangung jawab dalam sistem logika game tetris.
+- Andi Arya bertanggung jawab dalam sistem slot penyimpanan file fame dan membuat fitur new game.
+- Fariel Rakha bertanggung jawab dalam sistem menyortir skor tertinggi di leaderboard dan fitur cari nama.
+- Thariq bertanggung jawab dalam pembuatan fitur hapus file data game dan fitur cara bermain.
+- Jourinco bertanggung jawab dalam pembuatan sistem manajemen file game dan fitur load game.
 
 ## Fitur
 - Permainan Tetris di terminal
